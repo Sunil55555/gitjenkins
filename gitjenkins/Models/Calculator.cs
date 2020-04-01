@@ -10,7 +10,8 @@ namespace gitjenkins.Models
         public void Test()
         {
             int a=0;
-            int b=0;           
+            int b=0;      
+            int d =0;
         }
 
         public int sum(int a, int b)
